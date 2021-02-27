@@ -181,3 +181,8 @@
     height: 35px;
     margin-left: 5px;
 }
+
+.userName{
+	color: darkorange;
+	font-style: italic;
+}
